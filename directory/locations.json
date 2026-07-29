@@ -1,0 +1,1259 @@
+{
+  "countries": [
+    "UAE",
+    "Saudi Arabia",
+    "Kuwait",
+    "Qatar",
+    "Bahrain",
+    "Oman",
+    "Jordan",
+    "Lebanon",
+    "Syria",
+    "Iraq",
+    "Iran",
+    "Egypt",
+    "Libya",
+    "Tunisia",
+    "Algeria",
+    "Morocco",
+    "Sudan",
+    "Somalia",
+    "Yemen",
+    "Turkey",
+    "Pakistan",
+    "Bangladesh",
+    "India",
+    "Indonesia",
+    "Malaysia",
+    "Singapore",
+    "Afghanistan",
+    "Nigeria",
+    "Senegal",
+    "Ethiopia",
+    "UK",
+    "France",
+    "Germany",
+    "Netherlands",
+    "Belgium",
+    "Sweden",
+    "USA",
+    "Canada",
+    "Australia",
+    "South Africa",
+    "Russia",
+    "Kazakhstan",
+    "Uzbekistan",
+    "Azerbaijan"
+  ],
+  "cities": [
+    {
+      "country": "UAE",
+      "city": "Abu Dhabi",
+      "key": "Abu_Dhabi",
+      "source": "local",
+      "tz": "<+04>-4"
+    },
+    {
+      "country": "UAE",
+      "city": "Dubai",
+      "key": "Dubai",
+      "source": "local",
+      "tz": "<+04>-4"
+    },
+    {
+      "country": "UAE",
+      "city": "Sharjah",
+      "key": "Sharjah",
+      "source": "local",
+      "tz": "<+04>-4"
+    },
+    {
+      "country": "UAE",
+      "city": "Ajman",
+      "key": "Ajman",
+      "source": "local",
+      "tz": "<+04>-4"
+    },
+    {
+      "country": "UAE",
+      "city": "Fujairah",
+      "key": "Fujairah",
+      "source": "local",
+      "tz": "<+04>-4"
+    },
+    {
+      "country": "UAE",
+      "city": "RAK",
+      "key": "Ras_Al_Khaimah",
+      "source": "local",
+      "tz": "<+04>-4"
+    },
+    {
+      "country": "UAE",
+      "city": "UAQ",
+      "key": "Umm_Al_Quwain",
+      "source": "local",
+      "tz": "<+04>-4"
+    },
+    {
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "key": "SA_Riyadh",
+      "source": "api",
+      "api_city": "Riyadh",
+      "api_country": "SA",
+      "method": 4,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "key": "SA_Jeddah",
+      "source": "api",
+      "api_city": "Jeddah",
+      "api_country": "SA",
+      "method": 4,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Saudi Arabia",
+      "city": "Makkah",
+      "key": "SA_Makkah",
+      "source": "api",
+      "api_city": "Makkah",
+      "api_country": "SA",
+      "method": 4,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Saudi Arabia",
+      "city": "Madinah",
+      "key": "SA_Madinah",
+      "source": "api",
+      "api_city": "Madinah",
+      "api_country": "SA",
+      "method": 4,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Saudi Arabia",
+      "city": "Dammam",
+      "key": "SA_Dammam",
+      "source": "api",
+      "api_city": "Dammam",
+      "api_country": "SA",
+      "method": 4,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Saudi Arabia",
+      "city": "Tabuk",
+      "key": "SA_Tabuk",
+      "source": "api",
+      "api_city": "Tabuk",
+      "api_country": "SA",
+      "method": 4,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Kuwait",
+      "city": "Kuwait City",
+      "key": "KW_Kuwait",
+      "source": "api",
+      "api_city": "Kuwait City",
+      "api_country": "KW",
+      "method": 9,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Qatar",
+      "city": "Doha",
+      "key": "QA_Doha",
+      "source": "api",
+      "api_city": "Doha",
+      "api_country": "QA",
+      "method": 8,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Bahrain",
+      "city": "Manama",
+      "key": "BH_Manama",
+      "source": "api",
+      "api_city": "Manama",
+      "api_country": "BH",
+      "method": 8,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Oman",
+      "city": "Muscat",
+      "key": "OM_Muscat",
+      "source": "api",
+      "api_city": "Muscat",
+      "api_country": "OM",
+      "method": 8,
+      "tz": "<+04>-4"
+    },
+    {
+      "country": "Oman",
+      "city": "Salalah",
+      "key": "OM_Salalah",
+      "source": "api",
+      "api_city": "Salalah",
+      "api_country": "OM",
+      "method": 8,
+      "tz": "<+04>-4"
+    },
+    {
+      "country": "Jordan",
+      "city": "Amman",
+      "key": "JO_Amman",
+      "source": "api",
+      "api_city": "Amman",
+      "api_country": "JO",
+      "method": 5,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Lebanon",
+      "city": "Beirut",
+      "key": "LB_Beirut",
+      "source": "api",
+      "api_city": "Beirut",
+      "api_country": "LB",
+      "method": 3,
+      "tz": "EET-2EEST,M3.5.0/0,M10.5.0/0"
+    },
+    {
+      "country": "Syria",
+      "city": "Damascus",
+      "key": "SY_Damascus",
+      "source": "api",
+      "api_city": "Damascus",
+      "api_country": "SY",
+      "method": 5,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Syria",
+      "city": "Aleppo",
+      "key": "SY_Aleppo",
+      "source": "api",
+      "api_city": "Aleppo",
+      "api_country": "SY",
+      "method": 5,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Iraq",
+      "city": "Baghdad",
+      "key": "IQ_Baghdad",
+      "source": "api",
+      "api_city": "Baghdad",
+      "api_country": "IQ",
+      "method": 3,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Iraq",
+      "city": "Basra",
+      "key": "IQ_Basra",
+      "source": "api",
+      "api_city": "Basra",
+      "api_country": "IQ",
+      "method": 3,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Iraq",
+      "city": "Mosul",
+      "key": "IQ_Mosul",
+      "source": "api",
+      "api_city": "Mosul",
+      "api_country": "IQ",
+      "method": 3,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Iraq",
+      "city": "Erbil",
+      "key": "IQ_Erbil",
+      "source": "api",
+      "api_city": "Erbil",
+      "api_country": "IQ",
+      "method": 3,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Iran",
+      "city": "Tehran",
+      "key": "IR_Tehran",
+      "source": "api",
+      "api_city": "Tehran",
+      "api_country": "IR",
+      "method": 7,
+      "tz": "<+0330>-3:30"
+    },
+    {
+      "country": "Iran",
+      "city": "Isfahan",
+      "key": "IR_Isfahan",
+      "source": "api",
+      "api_city": "Isfahan",
+      "api_country": "IR",
+      "method": 7,
+      "tz": "<+0330>-3:30"
+    },
+    {
+      "country": "Iran",
+      "city": "Mashhad",
+      "key": "IR_Mashhad",
+      "source": "api",
+      "api_city": "Mashhad",
+      "api_country": "IR",
+      "method": 7,
+      "tz": "<+0330>-3:30"
+    },
+    {
+      "country": "Egypt",
+      "city": "Cairo",
+      "key": "EG_Cairo",
+      "source": "api",
+      "api_city": "Cairo",
+      "api_country": "EG",
+      "method": 5,
+      "tz": "EET-2EEST,M4.5.5/0,M10.5.4/24"
+    },
+    {
+      "country": "Egypt",
+      "city": "Alexandria",
+      "key": "EG_Alexandria",
+      "source": "api",
+      "api_city": "Alexandria",
+      "api_country": "EG",
+      "method": 5,
+      "tz": "EET-2EEST,M4.5.5/0,M10.5.4/24"
+    },
+    {
+      "country": "Egypt",
+      "city": "Giza",
+      "key": "EG_Giza",
+      "source": "api",
+      "api_city": "Giza",
+      "api_country": "EG",
+      "method": 5,
+      "tz": "EET-2EEST,M4.5.5/0,M10.5.4/24"
+    },
+    {
+      "country": "Egypt",
+      "city": "Aswan",
+      "key": "EG_Aswan",
+      "source": "api",
+      "api_city": "Aswan",
+      "api_country": "EG",
+      "method": 5,
+      "tz": "EET-2EEST,M4.5.5/0,M10.5.4/24"
+    },
+    {
+      "country": "Libya",
+      "city": "Tripoli",
+      "key": "LY_Tripoli",
+      "source": "api",
+      "api_city": "Tripoli",
+      "api_country": "LY",
+      "method": 5,
+      "tz": "EET-2"
+    },
+    {
+      "country": "Libya",
+      "city": "Benghazi",
+      "key": "LY_Benghazi",
+      "source": "api",
+      "api_city": "Benghazi",
+      "api_country": "LY",
+      "method": 5,
+      "tz": "EET-2"
+    },
+    {
+      "country": "Tunisia",
+      "city": "Tunis",
+      "key": "TN_Tunis",
+      "source": "api",
+      "api_city": "Tunis",
+      "api_country": "TN",
+      "method": 3,
+      "tz": "CET-1CEST,M3.5.0,M10.5.0/3"
+    },
+    {
+      "country": "Tunisia",
+      "city": "Sfax",
+      "key": "TN_Sfax",
+      "source": "api",
+      "api_city": "Sfax",
+      "api_country": "TN",
+      "method": 3,
+      "tz": "CET-1CEST,M3.5.0,M10.5.0/3"
+    },
+    {
+      "country": "Algeria",
+      "city": "Algiers",
+      "key": "DZ_Algiers",
+      "source": "api",
+      "api_city": "Algiers",
+      "api_country": "DZ",
+      "method": 3,
+      "tz": "CET-1"
+    },
+    {
+      "country": "Algeria",
+      "city": "Oran",
+      "key": "DZ_Oran",
+      "source": "api",
+      "api_city": "Oran",
+      "api_country": "DZ",
+      "method": 3,
+      "tz": "CET-1"
+    },
+    {
+      "country": "Algeria",
+      "city": "Tlemcen",
+      "key": "DZ_Tlemcen",
+      "source": "api",
+      "api_city": "Tlemcen",
+      "api_country": "DZ",
+      "method": 3,
+      "tz": "CET-1"
+    },
+    {
+      "country": "Morocco",
+      "city": "Casablanca",
+      "key": "MA_Casablanca",
+      "source": "api",
+      "api_city": "Casablanca",
+      "api_country": "MA",
+      "method": 3,
+      "tz": "<+01>-1"
+    },
+    {
+      "country": "Morocco",
+      "city": "Rabat",
+      "key": "MA_Rabat",
+      "source": "api",
+      "api_city": "Rabat",
+      "api_country": "MA",
+      "method": 3,
+      "tz": "<+01>-1"
+    },
+    {
+      "country": "Morocco",
+      "city": "Fes",
+      "key": "MA_Fes",
+      "source": "api",
+      "api_city": "Fes",
+      "api_country": "MA",
+      "method": 3,
+      "tz": "<+01>-1"
+    },
+    {
+      "country": "Morocco",
+      "city": "Marrakesh",
+      "key": "MA_Marrakesh",
+      "source": "api",
+      "api_city": "Marrakesh",
+      "api_country": "MA",
+      "method": 3,
+      "tz": "<+01>-1"
+    },
+    {
+      "country": "Sudan",
+      "city": "Khartoum",
+      "key": "SD_Khartoum",
+      "source": "api",
+      "api_city": "Khartoum",
+      "api_country": "SD",
+      "method": 5,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "key": "SO_Mogadishu",
+      "source": "api",
+      "api_city": "Mogadishu",
+      "api_country": "SO",
+      "method": 5,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Yemen",
+      "city": "Sanaa",
+      "key": "YE_Sanaa",
+      "source": "api",
+      "api_city": "Sanaa",
+      "api_country": "YE",
+      "method": 5,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Yemen",
+      "city": "Aden",
+      "key": "YE_Aden",
+      "source": "api",
+      "api_city": "Aden",
+      "api_country": "YE",
+      "method": 5,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Turkey",
+      "city": "Istanbul",
+      "key": "TR_Istanbul",
+      "source": "api",
+      "api_city": "Istanbul",
+      "api_country": "TR",
+      "method": 13,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Turkey",
+      "city": "Ankara",
+      "key": "TR_Ankara",
+      "source": "api",
+      "api_city": "Ankara",
+      "api_country": "TR",
+      "method": 13,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Turkey",
+      "city": "Izmir",
+      "key": "TR_Izmir",
+      "source": "api",
+      "api_city": "Izmir",
+      "api_country": "TR",
+      "method": 13,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Turkey",
+      "city": "Bursa",
+      "key": "TR_Bursa",
+      "source": "api",
+      "api_city": "Bursa",
+      "api_country": "TR",
+      "method": 13,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Turkey",
+      "city": "Trabzon",
+      "key": "TR_Trabzon",
+      "source": "api",
+      "api_city": "Trabzon",
+      "api_country": "TR",
+      "method": 13,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Pakistan",
+      "city": "Karachi",
+      "key": "PK_Karachi",
+      "source": "api",
+      "api_city": "Karachi",
+      "api_country": "PK",
+      "method": 1,
+      "tz": "<+05>-5"
+    },
+    {
+      "country": "Pakistan",
+      "city": "Lahore",
+      "key": "PK_Lahore",
+      "source": "api",
+      "api_city": "Lahore",
+      "api_country": "PK",
+      "method": 1,
+      "tz": "<+05>-5"
+    },
+    {
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "key": "PK_Islamabad",
+      "source": "api",
+      "api_city": "Islamabad",
+      "api_country": "PK",
+      "method": 1,
+      "tz": "<+05>-5"
+    },
+    {
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "key": "PK_Peshawar",
+      "source": "api",
+      "api_city": "Peshawar",
+      "api_country": "PK",
+      "method": 1,
+      "tz": "<+05>-5"
+    },
+    {
+      "country": "Pakistan",
+      "city": "Quetta",
+      "key": "PK_Quetta",
+      "source": "api",
+      "api_city": "Quetta",
+      "api_country": "PK",
+      "method": 1,
+      "tz": "<+05>-5"
+    },
+    {
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "key": "BD_Dhaka",
+      "source": "api",
+      "api_city": "Dhaka",
+      "api_country": "BD",
+      "method": 1,
+      "tz": "<+06>-6"
+    },
+    {
+      "country": "Bangladesh",
+      "city": "Chittagong",
+      "key": "BD_Chittagong",
+      "source": "api",
+      "api_city": "Chittagong",
+      "api_country": "BD",
+      "method": 1,
+      "tz": "<+06>-6"
+    },
+    {
+      "country": "India",
+      "city": "Mumbai",
+      "key": "IN_Mumbai",
+      "source": "api",
+      "api_city": "Mumbai",
+      "api_country": "IN",
+      "method": 1,
+      "tz": "<+0530>-5:30"
+    },
+    {
+      "country": "India",
+      "city": "Delhi",
+      "key": "IN_Delhi",
+      "source": "api",
+      "api_city": "Delhi",
+      "api_country": "IN",
+      "method": 1,
+      "tz": "<+0530>-5:30"
+    },
+    {
+      "country": "India",
+      "city": "Hyderabad",
+      "key": "IN_Hyderabad",
+      "source": "api",
+      "api_city": "Hyderabad",
+      "api_country": "IN",
+      "method": 1,
+      "tz": "<+0530>-5:30"
+    },
+    {
+      "country": "India",
+      "city": "Chennai",
+      "key": "IN_Chennai",
+      "source": "api",
+      "api_city": "Chennai",
+      "api_country": "IN",
+      "method": 1,
+      "tz": "<+0530>-5:30"
+    },
+    {
+      "country": "India",
+      "city": "Lucknow",
+      "key": "IN_Lucknow",
+      "source": "api",
+      "api_city": "Lucknow",
+      "api_country": "IN",
+      "method": 1,
+      "tz": "<+0530>-5:30"
+    },
+    {
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "key": "ID_Jakarta",
+      "source": "api",
+      "api_city": "Jakarta",
+      "api_country": "ID",
+      "method": 20,
+      "tz": "<+07>-7"
+    },
+    {
+      "country": "Indonesia",
+      "city": "Surabaya",
+      "key": "ID_Surabaya",
+      "source": "api",
+      "api_city": "Surabaya",
+      "api_country": "ID",
+      "method": 20,
+      "tz": "<+07>-7"
+    },
+    {
+      "country": "Indonesia",
+      "city": "Bandung",
+      "key": "ID_Bandung",
+      "source": "api",
+      "api_city": "Bandung",
+      "api_country": "ID",
+      "method": 20,
+      "tz": "<+07>-7"
+    },
+    {
+      "country": "Indonesia",
+      "city": "Medan",
+      "key": "ID_Medan",
+      "source": "api",
+      "api_city": "Medan",
+      "api_country": "ID",
+      "method": 20,
+      "tz": "<+07>-7"
+    },
+    {
+      "country": "Indonesia",
+      "city": "Makassar",
+      "key": "ID_Makassar",
+      "source": "api",
+      "api_city": "Makassar",
+      "api_country": "ID",
+      "method": 20,
+      "tz": "<+08>-8"
+    },
+    {
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "key": "MY_KualaLumpur",
+      "source": "api",
+      "api_city": "Kuala Lumpur",
+      "api_country": "MY",
+      "method": 3,
+      "tz": "<+08>-8"
+    },
+    {
+      "country": "Malaysia",
+      "city": "Johor Bahru",
+      "key": "MY_JohorBahru",
+      "source": "api",
+      "api_city": "Johor Bahru",
+      "api_country": "MY",
+      "method": 3,
+      "tz": "<+08>-8"
+    },
+    {
+      "country": "Malaysia",
+      "city": "Penang",
+      "key": "MY_Penang",
+      "source": "api",
+      "api_city": "Penang",
+      "api_country": "MY",
+      "method": 3,
+      "tz": "<+08>-8"
+    },
+    {
+      "country": "Singapore",
+      "city": "Singapore",
+      "key": "SG_Singapore",
+      "source": "api",
+      "api_city": "Singapore",
+      "api_country": "SG",
+      "method": 11,
+      "tz": "<+08>-8"
+    },
+    {
+      "country": "Afghanistan",
+      "city": "Kabul",
+      "key": "AF_Kabul",
+      "source": "api",
+      "api_city": "Kabul",
+      "api_country": "AF",
+      "method": 1,
+      "tz": "<+0430>-4:30"
+    },
+    {
+      "country": "Afghanistan",
+      "city": "Herat",
+      "key": "AF_Herat",
+      "source": "api",
+      "api_city": "Herat",
+      "api_country": "AF",
+      "method": 1,
+      "tz": "<+0430>-4:30"
+    },
+    {
+      "country": "Nigeria",
+      "city": "Lagos",
+      "key": "NG_Lagos",
+      "source": "api",
+      "api_city": "Lagos",
+      "api_country": "NG",
+      "method": 3,
+      "tz": "<+01>-1"
+    },
+    {
+      "country": "Nigeria",
+      "city": "Kano",
+      "key": "NG_Kano",
+      "source": "api",
+      "api_city": "Kano",
+      "api_country": "NG",
+      "method": 3,
+      "tz": "<+01>-1"
+    },
+    {
+      "country": "Nigeria",
+      "city": "Abuja",
+      "key": "NG_Abuja",
+      "source": "api",
+      "api_city": "Abuja",
+      "api_country": "NG",
+      "method": 3,
+      "tz": "<+01>-1"
+    },
+    {
+      "country": "Senegal",
+      "city": "Dakar",
+      "key": "SN_Dakar",
+      "source": "api",
+      "api_city": "Dakar",
+      "api_country": "SN",
+      "method": 3,
+      "tz": "GMT0"
+    },
+    {
+      "country": "Ethiopia",
+      "city": "Addis Ababa",
+      "key": "ET_AddisAbaba",
+      "source": "api",
+      "api_city": "Addis Ababa",
+      "api_country": "ET",
+      "method": 5,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Ethiopia",
+      "city": "Dire Dawa",
+      "key": "ET_DireDawa",
+      "source": "api",
+      "api_city": "Dire Dawa",
+      "api_country": "ET",
+      "method": 5,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "UK",
+      "city": "London",
+      "key": "GB_London",
+      "source": "api",
+      "api_city": "London",
+      "api_country": "GB",
+      "method": 3,
+      "tz": "GMT0BST,M3.5.0/1,M10.5.0"
+    },
+    {
+      "country": "UK",
+      "city": "Birmingham",
+      "key": "GB_Birmingham",
+      "source": "api",
+      "api_city": "Birmingham",
+      "api_country": "GB",
+      "method": 3,
+      "tz": "GMT0BST,M3.5.0/1,M10.5.0"
+    },
+    {
+      "country": "UK",
+      "city": "Manchester",
+      "key": "GB_Manchester",
+      "source": "api",
+      "api_city": "Manchester",
+      "api_country": "GB",
+      "method": 3,
+      "tz": "GMT0BST,M3.5.0/1,M10.5.0"
+    },
+    {
+      "country": "UK",
+      "city": "Bradford",
+      "key": "GB_Bradford",
+      "source": "api",
+      "api_city": "Bradford",
+      "api_country": "GB",
+      "method": 3,
+      "tz": "GMT0BST,M3.5.0/1,M10.5.0"
+    },
+    {
+      "country": "UK",
+      "city": "Leicester",
+      "key": "GB_Leicester",
+      "source": "api",
+      "api_city": "Leicester",
+      "api_country": "GB",
+      "method": 3,
+      "tz": "GMT0BST,M3.5.0/1,M10.5.0"
+    },
+    {
+      "country": "UK",
+      "city": "Glasgow",
+      "key": "GB_Glasgow",
+      "source": "api",
+      "api_city": "Glasgow",
+      "api_country": "GB",
+      "method": 3,
+      "tz": "GMT0BST,M3.5.0/1,M10.5.0"
+    },
+    {
+      "country": "France",
+      "city": "Paris",
+      "key": "FR_Paris",
+      "source": "api",
+      "api_city": "Paris",
+      "api_country": "FR",
+      "method": 12,
+      "tz": "CET-1CEST,M3.5.0,M10.5.0/3"
+    },
+    {
+      "country": "France",
+      "city": "Lyon",
+      "key": "FR_Lyon",
+      "source": "api",
+      "api_city": "Lyon",
+      "api_country": "FR",
+      "method": 12,
+      "tz": "CET-1CEST,M3.5.0,M10.5.0/3"
+    },
+    {
+      "country": "France",
+      "city": "Marseille",
+      "key": "FR_Marseille",
+      "source": "api",
+      "api_city": "Marseille",
+      "api_country": "FR",
+      "method": 12,
+      "tz": "CET-1CEST,M3.5.0,M10.5.0/3"
+    },
+    {
+      "country": "Germany",
+      "city": "Berlin",
+      "key": "DE_Berlin",
+      "source": "api",
+      "api_city": "Berlin",
+      "api_country": "DE",
+      "method": 3,
+      "tz": "CET-1CEST,M3.5.0,M10.5.0/3"
+    },
+    {
+      "country": "Germany",
+      "city": "Cologne",
+      "key": "DE_Cologne",
+      "source": "api",
+      "api_city": "Cologne",
+      "api_country": "DE",
+      "method": 3,
+      "tz": "CET-1CEST,M3.5.0,M10.5.0/3"
+    },
+    {
+      "country": "Germany",
+      "city": "Hamburg",
+      "key": "DE_Hamburg",
+      "source": "api",
+      "api_city": "Hamburg",
+      "api_country": "DE",
+      "method": 3,
+      "tz": "CET-1CEST,M3.5.0,M10.5.0/3"
+    },
+    {
+      "country": "Netherlands",
+      "city": "Amsterdam",
+      "key": "NL_Amsterdam",
+      "source": "api",
+      "api_city": "Amsterdam",
+      "api_country": "NL",
+      "method": 3,
+      "tz": "CET-1CEST,M3.5.0,M10.5.0/3"
+    },
+    {
+      "country": "Netherlands",
+      "city": "Rotterdam",
+      "key": "NL_Rotterdam",
+      "source": "api",
+      "api_city": "Rotterdam",
+      "api_country": "NL",
+      "method": 3,
+      "tz": "CET-1CEST,M3.5.0,M10.5.0/3"
+    },
+    {
+      "country": "Belgium",
+      "city": "Brussels",
+      "key": "BE_Brussels",
+      "source": "api",
+      "api_city": "Brussels",
+      "api_country": "BE",
+      "method": 3,
+      "tz": "CET-1CEST,M3.5.0,M10.5.0/3"
+    },
+    {
+      "country": "Belgium",
+      "city": "Antwerp",
+      "key": "BE_Antwerp",
+      "source": "api",
+      "api_city": "Antwerp",
+      "api_country": "BE",
+      "method": 3,
+      "tz": "CET-1CEST,M3.5.0,M10.5.0/3"
+    },
+    {
+      "country": "Sweden",
+      "city": "Stockholm",
+      "key": "SE_Stockholm",
+      "source": "api",
+      "api_city": "Stockholm",
+      "api_country": "SE",
+      "method": 3,
+      "tz": "CET-1CEST,M3.5.0,M10.5.0/3"
+    },
+    {
+      "country": "Sweden",
+      "city": "Gothenburg",
+      "key": "SE_Gothenburg",
+      "source": "api",
+      "api_city": "Gothenburg",
+      "api_country": "SE",
+      "method": 3,
+      "tz": "CET-1CEST,M3.5.0,M10.5.0/3"
+    },
+    {
+      "country": "USA",
+      "city": "New York",
+      "key": "US_NewYork",
+      "source": "api",
+      "api_city": "New York",
+      "api_country": "US",
+      "method": 2,
+      "tz": "EST5EDT,M3.2.0,M11.1.0"
+    },
+    {
+      "country": "USA",
+      "city": "Los Angeles",
+      "key": "US_LosAngeles",
+      "source": "api",
+      "api_city": "Los Angeles",
+      "api_country": "US",
+      "method": 2,
+      "tz": "PST8PDT,M3.2.0,M11.1.0"
+    },
+    {
+      "country": "USA",
+      "city": "Chicago",
+      "key": "US_Chicago",
+      "source": "api",
+      "api_city": "Chicago",
+      "api_country": "US",
+      "method": 2,
+      "tz": "CST6CDT,M3.2.0,M11.1.0"
+    },
+    {
+      "country": "USA",
+      "city": "Houston",
+      "key": "US_Houston",
+      "source": "api",
+      "api_city": "Houston",
+      "api_country": "US",
+      "method": 2,
+      "tz": "CST6CDT,M3.2.0,M11.1.0"
+    },
+    {
+      "country": "USA",
+      "city": "Dallas",
+      "key": "US_Dallas",
+      "source": "api",
+      "api_city": "Dallas",
+      "api_country": "US",
+      "method": 2,
+      "tz": "CST6CDT,M3.2.0,M11.1.0"
+    },
+    {
+      "country": "USA",
+      "city": "Detroit",
+      "key": "US_Detroit",
+      "source": "api",
+      "api_city": "Detroit",
+      "api_country": "US",
+      "method": 2,
+      "tz": "EST5EDT,M3.2.0,M11.1.0"
+    },
+    {
+      "country": "Canada",
+      "city": "Toronto",
+      "key": "CA_Toronto",
+      "source": "api",
+      "api_city": "Toronto",
+      "api_country": "CA",
+      "method": 2,
+      "tz": "EST5EDT,M3.2.0,M11.1.0"
+    },
+    {
+      "country": "Canada",
+      "city": "Vancouver",
+      "key": "CA_Vancouver",
+      "source": "api",
+      "api_city": "Vancouver",
+      "api_country": "CA",
+      "method": 2,
+      "tz": "PST8PDT,M3.2.0,M11.1.0"
+    },
+    {
+      "country": "Canada",
+      "city": "Montreal",
+      "key": "CA_Montreal",
+      "source": "api",
+      "api_city": "Montreal",
+      "api_country": "CA",
+      "method": 2,
+      "tz": "EST5EDT,M3.2.0,M11.1.0"
+    },
+    {
+      "country": "Australia",
+      "city": "Sydney",
+      "key": "AU_Sydney",
+      "source": "api",
+      "api_city": "Sydney",
+      "api_country": "AU",
+      "method": 3,
+      "tz": "AEST-10AEDT,M10.1.0,M4.1.0/3"
+    },
+    {
+      "country": "Australia",
+      "city": "Melbourne",
+      "key": "AU_Melbourne",
+      "source": "api",
+      "api_city": "Melbourne",
+      "api_country": "AU",
+      "method": 3,
+      "tz": "AEST-10AEDT,M10.1.0,M4.1.0/3"
+    },
+    {
+      "country": "Australia",
+      "city": "Brisbane",
+      "key": "AU_Brisbane",
+      "source": "api",
+      "api_city": "Brisbane",
+      "api_country": "AU",
+      "method": 3,
+      "tz": "AEST-10"
+    },
+    {
+      "country": "South Africa",
+      "city": "Cape Town",
+      "key": "ZA_CapeTown",
+      "source": "api",
+      "api_city": "Cape Town",
+      "api_country": "ZA",
+      "method": 3,
+      "tz": "SAST-2"
+    },
+    {
+      "country": "South Africa",
+      "city": "Johannesburg",
+      "key": "ZA_Johannesburg",
+      "source": "api",
+      "api_city": "Johannesburg",
+      "api_country": "ZA",
+      "method": 3,
+      "tz": "SAST-2"
+    },
+    {
+      "country": "South Africa",
+      "city": "Durban",
+      "key": "ZA_Durban",
+      "source": "api",
+      "api_city": "Durban",
+      "api_country": "ZA",
+      "method": 3,
+      "tz": "SAST-2"
+    },
+    {
+      "country": "Russia",
+      "city": "Moscow",
+      "key": "RU_Moscow",
+      "source": "api",
+      "api_city": "Moscow",
+      "api_country": "RU",
+      "method": 3,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Russia",
+      "city": "Kazan",
+      "key": "RU_Kazan",
+      "source": "api",
+      "api_city": "Kazan",
+      "api_country": "RU",
+      "method": 3,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Russia",
+      "city": "Grozny",
+      "key": "RU_Grozny",
+      "source": "api",
+      "api_city": "Grozny",
+      "api_country": "RU",
+      "method": 3,
+      "tz": "<+03>-3"
+    },
+    {
+      "country": "Kazakhstan",
+      "city": "Almaty",
+      "key": "KZ_Almaty",
+      "source": "api",
+      "api_city": "Almaty",
+      "api_country": "KZ",
+      "method": 3,
+      "tz": "<+05>-5"
+    },
+    {
+      "country": "Kazakhstan",
+      "city": "Astana",
+      "key": "KZ_Astana",
+      "source": "api",
+      "api_city": "Astana",
+      "api_country": "KZ",
+      "method": 3,
+      "tz": "<+05>-5"
+    },
+    {
+      "country": "Uzbekistan",
+      "city": "Tashkent",
+      "key": "UZ_Tashkent",
+      "source": "api",
+      "api_city": "Tashkent",
+      "api_country": "UZ",
+      "method": 3,
+      "tz": "<+05>-5"
+    },
+    {
+      "country": "Uzbekistan",
+      "city": "Samarkand",
+      "key": "UZ_Samarkand",
+      "source": "api",
+      "api_city": "Samarkand",
+      "api_country": "UZ",
+      "method": 3,
+      "tz": "<+05>-5"
+    },
+    {
+      "country": "Azerbaijan",
+      "city": "Baku",
+      "key": "AZ_Baku",
+      "source": "api",
+      "api_city": "Baku",
+      "api_country": "AZ",
+      "method": 3,
+      "tz": "<+04>-4"
+    }
+  ]
+}
