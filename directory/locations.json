@@ -2569,16 +2569,6 @@
   },
   {
    "country": "Japan",
-   "city": "Ibaraki",
-   "key": "JP_Ibaraki",
-   "source": "api",
-   "api_city": "Ibaraki",
-   "api_country": "JP",
-   "method": 3,
-   "tz": "JST-9"
-  },
-  {
-   "country": "Japan",
    "city": "Tokyo",
    "key": "JP_Tokyo",
    "source": "api",
